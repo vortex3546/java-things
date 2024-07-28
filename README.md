@@ -1,8 +1,18 @@
-# instructions 
-how to run -> use cmd (which if you dont know how to run java though cmd go here:https://stackoverflow.com/questions/16137713/how-do-i-run-a-java-program-from-the-command-line-on-windows) or use virtual studio code but you have to download a extension for java to debug,test,run and so on link:https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack also if you dont have java at all i have a file for a download of the exe here:
+# Instructions
 
-# photos of projects
+To run the project, you can use either the Command Prompt (cmd) or Visual Studio Code (VS Code).
+
+## Running via Command Prompt
+If you're not sure how to run Java through the Command Prompt, you can find instructions [here](https://stackoverflow.com/questions/16137713/how-do-i-run-a-java-program-from-the-command-line-on-windows).
+
+## Running via Visual Studio Code
+You can also use Visual Studio Code, but you need to download an extension for Java to debug, test, and run your program. You can download the extension from this link: [VS Code Java Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack).
+
+## Installing Java
+If you don't have Java installed, you can download the installer from the following link: [Java Installer]().
+
+# Photos of Projects
+
+**Picture of TextFileSaver**
+
 ![Screenshot 2024-07-26 213517](https://github.com/user-attachments/assets/fe6b7827-eb1d-46c4-aece-3ff521b5e18b)
-
-
-**picture of TextFileSaver**
